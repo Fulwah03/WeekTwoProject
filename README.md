@@ -1,4 +1,4 @@
-# MUSEA 🖼️ | ARRT WITHOUT WALLS ~
+# MUSEA 🖼️ | ART WITHOUT WALLS
 
 <p align="center">
   <strong>A digital museum experience where every masterpiece tells a story.</strong>
@@ -73,9 +73,9 @@ One artwork is highlighted as the **Artwork of the Moment**, while the remaining
   />
   &nbsp;&nbsp;
   <img
-    src="https://github.com/user-attachments/assets/4452c353-fa76-4a1f-a574-2bed55d6f6a9"
+    src="https://github.com/user-attachments/assets/2c8b158d-637d-4820-bbff-9496276e0503"
     width="280"
-    alt="Curated Gallery"
+    alt="MUSEA Discover Screen"
   />
 </p>
 
@@ -89,15 +89,23 @@ The screen calls the details endpoint and displays the artwork image, title, art
 
 <p align="center">
   <img
-    src="https://github.com/user-attachments/assets/451d40cf-e683-4950-a487-38a4905e4944"
+    src="https://github.com/user-attachments/assets/4452c353-fa76-4a1f-a574-2bed55d6f6a9"
     width="280"
     alt="Artwork Details Screen"
   />
   &nbsp;&nbsp;
   <img
+    src="https://github.com/user-attachments/assets/451d40cf-e683-4950-a487-38a4905e4944"
+    width="280"
+    alt="Artwork Details Information"
+  />
+</p>
+
+<p align="center">
+  <img
     src="https://github.com/user-attachments/assets/c546878e-0e14-42f3-9f18-1d2ea5d02e68"
     width="280"
-    alt="Artwork Information"
+    alt="Complete Artwork Information"
   />
 </p>
 
