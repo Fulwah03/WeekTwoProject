@@ -1,4 +1,4 @@
-# MUSEA 🖼️
+# MUSEA 🖼️ | ARRT WITHOUT WALLS ~
 
 <p align="center">
   <strong>A digital museum experience where every masterpiece tells a story.</strong>
